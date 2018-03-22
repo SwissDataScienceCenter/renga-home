@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: Renga Home
+repository: SwissDataScienceCenter/renga-home
+plugins:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji
